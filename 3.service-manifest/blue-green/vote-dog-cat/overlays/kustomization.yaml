@@ -6,4 +6,4 @@ bases:
 
 images:
 - name: duynamvnn1208/appserver
-  newTag: 'v1'
+  newTag: 'v2'
